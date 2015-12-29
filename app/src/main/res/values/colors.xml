@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 字体深色 -->
+    <color name="textcolor_black">#777777</color>
+    <!-- 字体中灰 -->
+    <color name="textcolor_middle">#999999</color>
+    <!-- 字体浅色 灰 -->
+    <color name="textcolor_light">#cccccc</color>
+    <!-- 背景绿色 -->
+    <color name="bg_green">#37ac42</color>
+</resources>

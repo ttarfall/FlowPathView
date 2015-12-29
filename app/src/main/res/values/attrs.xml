@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FlowPathView">
+        <attr name="rnLineColor" format="color" />
+        <attr name="lineLeftColor" format="color" />
+        <attr name="lineTopColor" format="color" />
+        <attr name="lineRightColor" format="color" />
+        <attr name="lineBottomColor" format="color" />
+        <attr name="lineLeftWidth" format="dimension" />
+        <attr name="lineTopWidth" format="dimension" />
+        <attr name="lineRightWidth" format="dimension" />
+        <attr name="lineBottomWidth" format="dimension" />
+        <attr name="lineLeftHeight" format="dimension" />
+        <attr name="lineTopHeight" format="dimension" />
+        <attr name="lineRightHeight" format="dimension" />
+        <attr name="lineBottomHeight" format="dimension" />
+        <attr name="lineVisiable" format="boolean" />
+        <attr name="lineLeftVisiable" format="boolean" />
+        <attr name="lineTopVisiable" format="boolean" />
+        <attr name="lineRightVisiable" format="boolean" />
+        <attr name="lineBottomVisiable" format="boolean" />
+        <attr name="roundRadius" format="dimension" />
+        <attr name="padding" format="dimension" />
+        <attr name="paddingLeft" format="dimension" />
+        <attr name="paddingTop" format="dimension" />
+        <attr name="paddingBottom" format="dimension" />
+        <attr name="paddingRight" format="dimension" />
+        <attr name="numberRoundColor" format="color" />
+        <attr name="numberVisiable" format="boolean" />
+        <attr name="number" format="integer" />
+        <attr name="numberColor" format="color" />
+        <attr name="numberSize" format="dimension" />
+        <attr name="image" format="reference" />
+    </declare-styleable>
+</resources>
